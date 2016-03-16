@@ -1,5 +1,5 @@
 {
-  "name": "mnoho/csv-reader",
+  "name": "mnohosten/csv-reader",
   "description": "Very simple/naive csv reader as PHP Iterator",
   "license": "MIT",
   "authors": [
